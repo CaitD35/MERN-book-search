@@ -53,13 +53,12 @@ The primary goal of this challenge is to replace the current RESTful API approac
 * Refactor the application the implement Apollo Server and GraphQL API.
 
 ## Deployed Application
-
+Click [here](https://mern-book-search-cd-5d105535d042.herokuapp.com/) to view the deployed application on Heroku.
 
 
 ## Demo
 
-![Demo](.)
-
+![Demo](/images/21-mern-homework-demo-01.jpeg)
 
 
 
